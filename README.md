@@ -1,7 +1,7 @@
 #MYLDOCE5
 The code based LDOCE5 Viewer, detail as below:
-
 --------Origin information by DOCE5 Viewer author-------
+
 #LDOCE5 Viewer
 
 The LDOCE5 Viewer is an alternative dictionary viewer for the Longman Dictionary of Contemporary English 5th Edition (LDOCE 5).
