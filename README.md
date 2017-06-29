@@ -3,7 +3,7 @@
 In order to make Anki learning cards easily according to the given english words.
 
 ## Feature:
-1. Remove the UI of the orginal software make it sutiable for the automation of programs.
+1. Look up words form Longman Dictionry 5.
 2. Generate Anki Learning cards based on the given words.
 
 ## Notes
