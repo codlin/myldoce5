@@ -9,4 +9,4 @@ In order to make Anki learning cards easily according to the given english words
 ## Notes
 The code based LDOCE5 Viewer:
 #### https://github.com/ciscorn/ldoce5viewer
-Thanks for his contribution!
+Thanks for his works!
